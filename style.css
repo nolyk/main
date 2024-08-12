@@ -28,6 +28,7 @@ tr,th,td{
     border: 2px solid yellow;
     color: white;
     width: 478px;
+    margin:auto;
 }
 .planet{
     height: 40px;
