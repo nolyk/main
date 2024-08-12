@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(0, 0, 40);
+}
+h1{
+    color: yellow;
+    text-align: center;
+}
+.ks{
+    text-align: center;
+    color: white;
+}
+.zv{
+    color: rgb(2, 200, 2);
+}
+.pln{
+    color: rgb(2, 200, 2);
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+tr,th,td{
+    border: 2px solid yellow;
+    color: white;
+    width: 478px;
+}
+.planet{
+    height: 40px;
+    width: 250px;
+}
+.middle{
+    height: 40px
+    width: 600px;
+}
+.sun{
+    height: 40px;
+    width: 585px;
+}
+.only{
+    background-color: rgb(45, 45, 88);
+    height: 40px;
+    width: 250px;
+}
+.number{
+    background-color: rgb(45, 45, 88);
+    height: 40px;
+    width: 600px;
+}
+.gradus{
+    background-color: rgb(45, 45, 88);
+    height: 40px;
+    width: 585px;
+}
+.vop{
+    text-align: center;
+    color: white;
+}
+.inp1{
+    height: 50px;
+    width: 1440px;
+    border-radius: 10px;
+}
+.send{
+    background-color: yellow;
+    color: black;
+    height: 40px;
+    width: 300px;
+    border-radius: 30px;
+    font-size: 20px;
+}
